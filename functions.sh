@@ -1,6 +1,6 @@
 
 function SAMPLE () {
-  echo a value is constant
+  echo My name is $1
 }
 
-SAMPLE
+SAMPLE Vijay
